@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hannahhx
+- 👀 I’m interested in learining JavaScript
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on nothing currently.
+- 📫 How to reach me via Discord Hannahh#3723
